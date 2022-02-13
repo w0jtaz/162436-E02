@@ -1,2 +1,1 @@
-# 162436_E02
-Programowanie Obiektowe egzamin termin 2
+Wojciech Kowalczyk 162436 9:45 termin 2
